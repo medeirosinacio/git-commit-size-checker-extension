@@ -14,9 +14,7 @@
     "default_popup": "popup/popup.html"
   },
   "permissions": [],
-  "host_permissions": [
-    "*://*/*"
-  ],
+  "host_permissions": [],
   "content_scripts": [
     {
       "js": [
