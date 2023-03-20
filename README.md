@@ -14,6 +14,8 @@ Currently, the extension only works on the GitHub platform. Support for other pl
 The extension can be installed from the Chrome Store by navigating to the extension page and clicking the "Add to
 Chrome" button.
 
+[Chrome Web Store | Git Commit Size Checker](https://chrome.google.com/webstore/detail/git-commit-size-checker/bmllpipoppkmokcdnomlbbgeocjhmbag)
+
 ## Usage
 
 Once installed, the extension will automatically validate commit messages on GitHub, providing real-time feedback to
