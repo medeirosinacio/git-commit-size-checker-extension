@@ -1,11 +1,10 @@
 name: Update Chrome Extension
 run-name: Build & deploy chrome extension 🚀
 
-on: [ push ]
-#on:
-#  push:
-#    tags:
-#      - v*.*.*
+on:
+  push:
+    tags:
+      - v*
 
 jobs:
   update-chrome-extension:
