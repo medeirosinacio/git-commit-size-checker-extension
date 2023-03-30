@@ -3,7 +3,7 @@
   "name": "Git Commit Size Checker",
   "author": "Douglas Medeiros <eu@douglasmedeiros.dev>",
   "description": "An extension that validates the maximum size of characters allowed in a commit title.",
-  "version": "0.1.3",
+  "version": "0.2",
   "icons": {
     "16": "logo/logo-16.png",
     "48": "logo/logo-48.png",
